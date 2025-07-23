@@ -78,7 +78,7 @@ _YouTube cover image used for the video_
 ## 🎬 Watch the Video
 
 You can watch the full tutorial and demonstration on YouTube:  
-🔗 **[👉 Insert YouTube Video Link Here]([https://youtube.com/your-video-link](https://youtu.be/tmdefGB0Bw8))**
+🔗[ **[👉 Insert YouTube Video Link Here]([https://youtube.com/your-video-link](https://youtu.be/tmdefGB0Bw8))**](https://youtu.be/tmdefGB0Bw8)
 
 ---
 
